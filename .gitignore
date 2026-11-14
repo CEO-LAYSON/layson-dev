@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.vercel
+
+# CV contains referees' private contacts; upload a cleaned CV via /admin instead
+public/cv/
+*.tsbuildinfo
